@@ -108,6 +108,10 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id:
 
+
+# Baidu tongji
+baidu_tongji_tracking_id:
+
 # Facebook Like
 facebook_like: false
 
